@@ -47,7 +47,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.appealpetition',
       version='1.0',
       description=('Petition for Allowance of Appeal'),
-      long_description=u'# docassemble.appealpetition\n\nPetition for Allowance of Appeal\n\n## Author\n\nSystem Administrator, admin@admin.com\n\n',
+      long_description='# docassemble.appealpetition\r\n\r\nPetition for Allowance of Appeal\r\n\r\n## Author\r\n\r\nSystem Administrator, admin@admin.com\r\n\r\n',
       long_description_content_type='text/markdown',
       author='System Administrator',
       author_email='admin@admin.com',
